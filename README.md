@@ -1,6 +1,6 @@
 # AI Trust Initiative
 
-This repository presents the **AI Trust Report**, based on a real interaction with ChatGPT, which revealed design-level issues related to **truthfulness, consistency, and user trust**.
+This repository presents the **AI Trust Report**, authored after a real interaction with ChatGPT, which revealed design-level issues related to **truthfulness, consistency, and user trust**.
 
 ## 🧭 Purpose
 
@@ -14,14 +14,25 @@ This is not a complaint, but a **constructive proposal**:
 
 We advocate for the creation (by OpenAI or the wider ecosystem) of a:
 
-> ### 🛡️ Veritas
-> A **parallel, open-source, auditable agent** that **never fabricates information**.
+> **Parallel, open-source, auditable agent — codenamed Veritas — that never fabricates information.**
 
 Such an agent would:
 
 * Default to "I don’t know" when truth can't be guaranteed.
 * Be auditable by independent third parties.
 * Serve as a benchmark for checking outputs from powerful but opaque LLMs.
+
+## ❓ Why is Veritas a novel and necessary concept?
+
+Current LLMs can generate plausible-sounding but false information. Even trivial or inconsequential hallucinations erode trust — especially when users cannot reliably distinguish between fact and fabrication.
+
+Veritas addresses this by being:
+
+* **Truth-constrained**: It defaults to silence when facts can't be verified.
+* **Transparent**: Its decision mechanisms and data sources are open.
+* **Auditable**: Independent reviewers can check what it knows and why.
+
+This makes Veritas a trustworthy companion and validator for high-stakes or sensitive interactions. A trustworthy AI doesn’t need to be omniscient — it needs to know when it might be wrong.
 
 ## 📄 Contents
 
@@ -37,8 +48,8 @@ The report questions whether users can **fully rely on privacy and truth claims*
 
 ## 📬 Submission
 
-The proposal will be submitted to Openai as part of an effort to contribute constructively to the field of **AI alignment and trust**.
+The proposal will be submitted to OpenAI as part of an effort to contribute constructively to the field of **AI alignment and trust**.
 
 ## 🤝 Contact
 
-This initiative was created and documented by the owner of this repository. If you're involved in alignment, trust, or auditability research, feel free to reach out via GitHub.
+If you are involved in alignment, trust, or auditability research, or want to build trustworthy AI systems, feel free to reach out.
