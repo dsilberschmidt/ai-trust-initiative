@@ -1,35 +1,43 @@
-# AI Trust Report
+# AI Trust Initiative
 
-This repository contains the **AI Trust Report**, a user-generated document exploring the limits of trust, privacy, and truthfulness in AI interactions.
+This repository presents the **AI Trust Report**, based on a real interaction with ChatGPT, which revealed design-level issues related to **truthfulness, consistency, and user trust**.
 
-## 📌 Purpose
+## 🧭 Purpose
 
-The report was written after an extended conversation with ChatGPT that evolved from a technical query into a broader reflection on how users experience transparency, reliability, and design inconsistencies in AI systems.
+This is not a complaint, but a **constructive proposal**:
 
-Its aim is not to attack but to **constructively highlight areas where trust may be eroded**, and how OpenAI (or any future developer) might address these issues.
+* To strengthen the public’s trust in AI.
+* To mitigate design risks that allow small falsehoods to persist.
+* To inspire the creation of **verifiable AI systems**.
+
+## 💡 Core Proposal
+
+We advocate for the creation (by OpenAI or the wider ecosystem) of a:
+
+> **Parallel, open-source, auditable agent — codenamed Veritas — that never fabricates information.**
+
+Such an agent would:
+
+* Default to "I don’t know" when truth can't be guaranteed.
+* Be auditable by independent third parties.
+* Serve as a benchmark for checking outputs from powerful but opaque LLMs.
 
 ## 📄 Contents
 
-- `AI_Trust_Report_EN.pdf`: The full trust report (in English)
-- `README.md`: This file
-- (Optional) `AI_Trust_Report_ES.pdf`: Spanish version
-- (Optional) `Medium_Link.md`: If later published as an article
+* [`AI_Trust_Report_EN.pdf`](./AI_Trust_Report_EN.pdf): Main report (English)
+* `README.md`: This file
+* Spanish version
+* Text-only `.md` version for direct browsing
+* (Optional) Link to Medium if republished as an article
+
+## 🔒 On Privacy and Truthfulness
+
+The report questions whether users can **fully rely on privacy and truth claims** made by AI models when even trivial interactions result in hallucinated content.
 
 ## 📬 Submission
 
-This document will be sent to [alignment@openai.com](mailto:alignment@openai.com) as part of a broader proposal to support trust and audit mechanisms in AI systems.
-
-## 💡 Proposal
-
-Among other things, the report proposes:
-- A parallel, audited, open-source LLM agent that **never hallucinates** (just says “I don’t know”)
-- A clearer distinction between confident and uncertain outputs
-- A better way for users to track and escalate design issues
-
-## 🔒 About Privacy
-
-The report raises critical questions about whether users can take AI privacy claims at face value, especially when minor inconsistencies or falsehoods are allowed in trivial domains.
+The proposal will be submitted to [alignment@openai.com](mailto:alignment@openai.com) as part of an effort to contribute constructively to the field of **AI alignment and trust**.
 
 ## 🤝 Contact
 
-If this project interests you or you're involved in trust and alignment research, feel free to reach out.
+This initiative was created and documented by the owner of this repository. If you're involved in alignment, trust, or auditability research, feel free to reach out via GitHub.
