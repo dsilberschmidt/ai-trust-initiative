@@ -14,7 +14,8 @@ This is not a complaint, but a **constructive proposal**:
 
 We advocate for the creation (by OpenAI or the wider ecosystem) of a:
 
-> **Parallel, open-source, auditable agent — codenamed Veritas — that never fabricates information.**
+> ### 🛡️ Veritas
+> A **parallel, open-source, auditable agent** that **never fabricates information**.
 
 Such an agent would:
 
