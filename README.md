@@ -37,7 +37,7 @@ The report questions whether users can **fully rely on privacy and truth claims*
 
 ## 📬 Submission
 
-The proposal will be submitted to [alignment@openai.com](mailto:alignment@openai.com) as part of an effort to contribute constructively to the field of **AI alignment and trust**.
+The proposal will be submitted to Openai as part of an effort to contribute constructively to the field of **AI alignment and trust**.
 
 ## 🤝 Contact
 
