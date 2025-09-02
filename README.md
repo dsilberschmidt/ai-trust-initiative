@@ -50,6 +50,12 @@ The report questions whether users can **fully rely on privacy and truth claims*
 
 The proposal will be submitted to OpenAI as part of an effort to contribute constructively to the field of **AI alignment and trust**.
 
+## 🌍 Outreach Log
+
+- **Aug 28, 2025**: Shared summary on OpenAI Forum (*ChatGPT* category, later auto-closed).  
+  [PDF copy](/outreach/forum_openai_2025-08-28.pdf) · Original link: community.openai.com/t/proposal-veritas-an-open-source-auditor-for-gpt-hallucinations/1354921
+
+
 ## 🤝 Contact
 
 If you are involved in alignment, trust, or auditability research, or want to build trustworthy AI systems, feel free to reach out.
